@@ -1,10 +1,6 @@
 # 💫 Hola, soy Diego!
 Estudiante de Ingeniería de Sistemas, actualmente en los últimos semestres de la carrera. Constantemente estoy ampliando mis conocimientos en el desarrollo backend, siendo Java y su framework Spring mis tecnologias favoritas. Aunque mi interés principal esta en el backend, tambien quiero aprender sobre frontend y mejorar mis habilidades en desarrollo completo.<br>Me gusta aprender y construir cosas nuevas, productivas e innovadoras.
 
-
-## 🌐 Redes Sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coffeediegoa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-dejesus-64ba13335/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BcGX7y25rTlCuRxO8KFePRQ%3D%3D) 
-
 ## 💻 Tecnologías:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -41,6 +37,8 @@ Estudiante de Ingeniería de Sistemas, actualmente en los últimos semestres de 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
+## 🌐 Redes Sociales:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coffeediegoa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-dejesus-64ba13335/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BcGX7y25rTlCuRxO8KFePRQ%3D%3D) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=diegodejesusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
