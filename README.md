@@ -40,7 +40,6 @@ Estudiante de Ingeniería de Sistemas, actualmente en los últimos semestres de 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coffeediegoa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-dejesus-64ba13335/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BcGX7y25rTlCuRxO8KFePRQ%3D%3D) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=diegodejesusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diegodejesusdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodejesusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
