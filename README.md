@@ -99,7 +99,7 @@ buscando:    Analista de Datos / Desarrollador Backend — remoto o presencial
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=diegodejesusdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodejesusdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodejesusdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,html&locale=es" />
 </p>
 
 <p align="center">
