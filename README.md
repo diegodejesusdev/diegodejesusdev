@@ -73,10 +73,10 @@ buscando:    Analista de Datos / Desarrollador Backend — remoto o presencial
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 📈 **[ConstruNorte – Pronóstico de Demanda](https://github.com/diegodejesusdev/DataScienceProject)** | Forecasting de demanda e inventario para una empresa de materiales de construcción. LightGBM con **MAE 6.77 (79.18% mejor que el baseline)**, clasificación ABC/XYZ, pipeline ETL y API con 12 endpoints. | Python · LightGBM · XGBoost · Prophet · FastAPI · MySQL · Docker · Apache Hop · Tableau |
+| 📈 **[ConstruNorte – Pronóstico de Demanda](https://github.com/diegodejesusdev/DataScienceProject)** | Forecasting de demanda e inventario para una empresa de materiales de construcción. LightGBM con **MAE 6.77 (79.18% mejor que el baseline)**, clasificación ABC/XYZ, pipeline ETL, API FastAPI con 14 endpoints y dashboard web. | Python · LightGBM · XGBoost · Prophet · FastAPI · MySQL · Docker · Apache Hop · Tableau |
 | 🛒 **[E-commerce Platform](https://github.com/diegodejesusdev/Ecommerce-Platform)** | Plataforma MVC con autenticación por roles (Spring Security + BCrypt), catálogo con búsqueda y paginación, carrito con validación de stock y abstracción de pasarelas de pago (Stripe, PayPal, contra entrega). | Java 17 · Spring Boot 3 · Spring Data JPA · MySQL · Thymeleaf |
-| 🧠 **[LearnAI – Tutor de estudio con IA](https://github.com/diegodejesusdev/learnai)** | PWA offline con ruta de 100 temas, Pomodoro, historial con gráficas, exportación CSV y tutor de IA (Gemini / Anthropic) que explica, genera quizzes y revisa proyectos. PostgreSQL con RLS. | React · TypeScript · Supabase · Tailwind CSS · Vercel |
-| 📦 **[Order Management Microservices](https://github.com/diegodejesusdev/OrderManagementMicroservices)** | *(En desarrollo)* Gestión de órdenes con microservicios: auth, gateway, inventario, órdenes y notificaciones, comunicados por mensajería. | Java · Spring Boot · MySQL · RabbitMQ · Docker Compose |
+| 🧠 **[LearnAI – Tutor de estudio con IA](https://github.com/diegodejesusdev/learnai)** | PWA offline con 2 rutas de estudio (210 temas), Pomodoro, historial con gráficas, exportación CSV y tutor de IA (Gemini / Anthropic) que explica, genera quizzes y revisa proyectos. PostgreSQL con RLS. | React · TypeScript · Supabase · Tailwind CSS · Vercel |
+| 📦 **[Order Management Microservices](https://github.com/diegodejesusdev/OrderManagementMicroservices)** | *(En desarrollo)* Gestión de pedidos con microservicios y base de datos por servicio. Listos: Auth (JWT, roles) e Inventory (stock y clasificación ABC/XYZ), con pruebas en Testcontainers. Siguen Orders, RabbitMQ y Gateway. | Java 21 · Spring Boot · Spring Security · JWT · MySQL · Docker Compose |
 
 ---
 
